@@ -56,7 +56,7 @@ A comprehensive multi-user parking management system built with Flask (backend) 
 
 ### Quick Start
 
-**Windows (Recommended for your system):**
+**Windows ( My system):**
 ```bash
 # Full version with Redis and Celery
 start_full_app.bat
@@ -322,14 +322,4 @@ export REDIS_URL=redis://localhost:6379/0
 4. Test thoroughly
 5. Submit a pull request
 
-## License
 
-This project is for educational purposes. Please ensure compliance with your institution's policies regarding plagiarism and code sharing.
-
-## Support
-
-For issues and questions:
-1. Check the troubleshooting section
-2. Review the API documentation
-3. Test with the provided examples
-4. Ensure all dependencies are properly installed
