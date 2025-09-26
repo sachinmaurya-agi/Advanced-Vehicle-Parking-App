@@ -1,4 +1,21 @@
 # Vehicle Parking App - V2
+## Private companion repository
+
+This project has a private companion repository with the full source and additional assets:
+
+**Vehicle Parking App (private)** — https://github.com/sachinmaurya-agi/Vehicle-Parking-App-V-2
+
+> This repo is **private**. If you'd like access, please **request it** using **one** of the methods below:
+>
+> 1. Open an issue in this (public) repo titled **"Request access: Vehicle-Parking-App-V-2"** and include your GitHub username and the reason for access.
+>
+>    👉 Create an issue prefilled:  
+>    `https://github.com/<PUBLIC_OWNER>/<PUBLIC_REPO>/issues/new?title=Request%20access%3A%20Vehicle-Parking-App-V-2&body=Hi%2C%20please%20grant%20access%20to%20the%20private%20repo%20%60Vehicle-Parking-App-V-2%60%20for%20GitHub%20user%3A%20%40YOUR_USERNAME.%0A%0AThanks!`
+>
+> 2. Or email me at: `sachinmaurya4104@gmail.com` with your GitHub username and reason for access.
+>
+> Once I receive your request I will add you as a **collaborator** (or invite you) to the private repo.
+
 
 A comprehensive multi-user parking management system built with Flask (backend) and Vue.js (frontend).
 
